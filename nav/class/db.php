@@ -9,10 +9,10 @@ class dbh {
 
 	protected function connect()
 	{
-		$this->servername 	= "localhost";
-		$this->username 	= "root";
-		$this->password 	= "";
-		$this->dbname 		= "accred";
+		$this->servername 	= "bdjpcjzyaquqq3qjqsxl-mysql.services.clever-cloud.com";
+		$this->username 	= "ubikxnxdur57shta";
+		$this->password 	= "oUhyior9J0Aaltc3aSDx";
+		$this->dbname 		= "bdjpcjzyaquqq3qjqsxl";
 
 		$conn = new mysqli($this->servername, $this->username , $this->password, $this->dbname);
 
