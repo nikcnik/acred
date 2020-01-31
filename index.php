@@ -218,7 +218,7 @@ if (isset($_SESSION['type'])) {
     <div class="row" style="margin:0px;border:0px;">
       <div class="col-lg-10"></div>
       <div class="col-lg-2">
-        <p style="color:#888; font-family:arial narrow; font-size: 12px;"><i class="fa fa-copyright"></i> Taguig City University Thesis - 2018</p>
+        <p style="color:#888; font-family:arial narrow; font-size: 12px;"><i class="fa fa-copyright"></i> - 2020</p>
       </div>
     </div>
   </div>
